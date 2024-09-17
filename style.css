@@ -1,0 +1,23 @@
+.centralizar{
+    text-align: center;
+    background-color: aqua;
+    color: royalblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.cor{
+    color: black;
+    text-decoration: underline;
+}
+
+.center{
+    
+    background-color: aqua;
+    color: royalblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.paragrafo{
+    text-align: center;
+}
+
